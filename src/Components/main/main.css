@@ -1,0 +1,40 @@
+.goods_cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 100px;
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.good_card {
+    text-align: left;
+}
+
+.good_img {
+    width: 100px;
+    height: 130px;
+}
+
+.good_price {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.good_wight {
+    font-size: 10px;
+    font: grey;
+}
+
+.good_name {
+    font-size: 13px;
+}
+
+.add_to_basket {
+    height: 30px;
+    width: 90px;
+    background-color: gold;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: none;
+}
