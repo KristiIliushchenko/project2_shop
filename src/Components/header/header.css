@@ -1,0 +1,29 @@
+.header {
+    background-color: gold;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.left_part {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bone_img {
+    width: 50px;
+    height: 50px;
+}
+
+.right_part {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.backet_img {
+    width: 50px;
+    height: 50px;
+}
